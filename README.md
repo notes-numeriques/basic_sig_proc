@@ -1,2 +1,2 @@
-# basic_sig_proc
+# Basic Signal Processing
 basic signal processing materials
